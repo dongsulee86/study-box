@@ -1,0 +1,6 @@
+com\bluenight\api\config\MainApplicationConfig.class
+com\bluenight\api\BluenightApplication.class
+com\bluenight\api\model\User.class
+com\bluenight\api\service\UserService.class
+com\bluenight\api\controller\UserController.class
+com\bluenight\api\repository\UserRepository.class
